@@ -46,7 +46,7 @@ ssh-agent
 ## Criar o pipeline
 1. *Nova Tarefa* → **Pipeline** → Nome: `pipeline-sre-demo` → **Tudo Certo**
 2. Em **Pipeline** → **Definition**: *Pipeline script*
-3. Cole o conteúdo do `Jenkinsfile` deste pacote e salve.
+3. Cole o conteúdo do `Jenkinsfile` deste pacote e `salve`.
 4. Clique em **Construir agora**.
    - O pipeline vai pedir **Input** de confirmação.
    - Clique em **Proceed** para prosseguir.
