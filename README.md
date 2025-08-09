@@ -24,7 +24,7 @@ Siga o wizard, mantenha **Install suggested plugins** (os necessários já estã
 
 -----------------------------------------------
 
-# INICIANDO JÁ COM JENKINS INSTALADO#
+# INICIANDO JÁ COM JENKINS INSTALADO #
 
 ### Plugins necessários:
 ```bash
