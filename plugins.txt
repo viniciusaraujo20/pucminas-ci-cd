@@ -1,0 +1,7 @@
+workflow-aggregator
+pipeline-model-definition
+pipeline-stage-view
+credentials-binding
+pipeline-input-step
+git
+ssh-agent
